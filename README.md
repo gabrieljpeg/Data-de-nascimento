@@ -16,4 +16,4 @@ print("Seja Bem-Vindo(a)" , nome)
 
 Também pode ser escrito de um modo diferente, por exemplo:
 nome = input('Digite seu nome: ')
-print('É um prazer te conhecer {}!.format(nome))
+print('É um prazer te conhecer, {}!.format(nome))
